@@ -1,5 +1,5 @@
 import React,{ useEffect } from 'react'
-import Lottie from 'react-lottie'
+import Lottie from 'lottie-react'
 import jwt_decode from "jwt-decode"
 import { useLocation } from "react-router-dom"
 import './History.css'

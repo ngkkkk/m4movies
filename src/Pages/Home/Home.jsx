@@ -2,7 +2,7 @@ import React,{ useEffect } from 'react'
 import axios from "axios"
 import jwt_decode from "jwt-decode"
 import { Link, useLocation } from "react-router-dom"
-import Lottie from "react-lottie"
+import Lottie from "lottie-react"
 import './Home.css'
 import {
   Sidebar, 

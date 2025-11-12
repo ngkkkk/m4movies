@@ -10,7 +10,7 @@ import {
   PlaylistCard,
   useToast
 } from '../../index'
-import Lottie from "react-lottie"
+import Lottie from "lottie-react"
 import ManInPark from "../../Assets/lottie/man-in-the-park.json"
 
 function AllPlaylistPage() {
